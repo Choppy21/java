@@ -1,5 +1,6 @@
 package recursividad;
 
+//Angel Gabriel Aguirre Rosell
 public class torredehanoi {
     public static void hanoi(int n, char source, char auxiliary, char target) {
         if (n > 0) {

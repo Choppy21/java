@@ -1,5 +1,6 @@
 package recursividad;
 
+//Angel Gabriel Aguirre Rosell
 public class invertir {
     public static String invertirC(String s) {
         if (s.isEmpty()) {

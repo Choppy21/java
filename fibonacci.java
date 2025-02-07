@@ -1,5 +1,6 @@
 package recursividad;
 
+//Angel Gabriel Aguirre Rosell
 public class fibonacci {
     public static int fibonacc(int n) {
         if (n <= 1) {
